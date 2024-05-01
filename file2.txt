@@ -1,0 +1,3 @@
+name = nikita
+class = teit
+roll no. = 46
